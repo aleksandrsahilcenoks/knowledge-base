@@ -25,3 +25,12 @@ Link: https://openai.com/index/harness-engineering/
 Specification for creating machine-readable instructions for AI coding agents inside software repositories.
 
 Link: https://agents.md/
+
+
+### Design Patterns (GoF)
+
+Lecture about software design patterns, their classification, documentation, MVC, Observer, Strategy, Functional Design, Proxy, Builder, Singleton, Adapter, and other GoF-related patterns.
+
+### Object-Oriented Design — Introduction
+
+Lecture about object-oriented design, abstraction, modularity, architecture, refinement, information hiding, refactoring, subsystem contracts, and design principles.

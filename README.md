@@ -6,11 +6,11 @@ The purpose of this repository is to document my learning process, collect impor
 
 ## Goals
 
-* Track what I learn during the course.
-* Summarize key materials and lectures.
-* Maintain notes about Git, GitHub, Agile, Scrum, Kanban, AI-native development, and engineering harnesses.
-* Record important decisions and reflections.
-* Connect theoretical knowledge with the development of my course project.
+- Track what I learn during the course.
+- Summarize key materials and lectures.
+- Maintain notes about Git, GitHub, Agile, Scrum, Kanban, AI-native development, and engineering harnesses.
+- Record important decisions and reflections.
+- Connect theoretical knowledge with the development of my course project.
 
 ## Repository Structure
 
@@ -20,8 +20,8 @@ The purpose of this repository is to document my learning process, collect impor
 ├── learning-log.md
 ├── sources.md
 ├── glossary.md
-├── reflections/
 ├── notes/
+├── reflections/
 └── decisions/
 ```
 
@@ -47,6 +47,12 @@ The `learning-log.md` file tracks my progress week by week.
 
 This knowledge base supports the practical part of the course by documenting not only the final result, but also the learning process behind it.
 
+
 ## Current Focus
 
 The current focus is Practical Assignment 3: AI-Ready Requirements and UML-as-Code. The knowledge base now includes notes and templates for AI-native user stories, BDD acceptance criteria, Mermaid diagrams, and pure-function contracts.
+
+
+## Current Focus
+
+The current focus is Practical Assignment 4: Architectural Patterns and Structural Integrity. The knowledge base now includes notes and templates for GoF design patterns, object-oriented design principles, architectural decision records, and pattern-based feature implementation.
