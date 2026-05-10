@@ -18,6 +18,10 @@ Lecture about Agile, Scrum, Kanban, distributed teams, AI-native project managem
 
 Article about the transition from writing code manually to designing systems, constraints, feedback loops, and environments for AI-assisted and AI-native software engineering.
 
+Link: https://openai.com/index/harness-engineering/
+
 ### AGENTS.md Specification
 
 Specification for creating machine-readable instructions for AI coding agents inside software repositories.
+
+Link: https://agents.md/

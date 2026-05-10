@@ -46,3 +46,7 @@ The `learning-log.md` file tracks my progress week by week.
 ## Course Connection
 
 This knowledge base supports the practical part of the course by documenting not only the final result, but also the learning process behind it.
+
+## Current Focus
+
+The current focus is Practical Assignment 3: AI-Ready Requirements and UML-as-Code. The knowledge base now includes notes and templates for AI-native user stories, BDD acceptance criteria, Mermaid diagrams, and pure-function contracts.
